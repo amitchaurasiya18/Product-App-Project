@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\ProductApp\bin\Debug\ProductApp.exe.config
+D:\Visual Studio Projects (Training)\ProductApp\bin\Debug\ProductApp.exe
+D:\Visual Studio Projects (Training)\ProductApp\bin\Debug\ProductApp.pdb
+D:\Visual Studio Projects (Training)\ProductApp\obj\Debug\ProductApp.exe
+D:\Visual Studio Projects (Training)\ProductApp\obj\Debug\ProductApp.pdb
